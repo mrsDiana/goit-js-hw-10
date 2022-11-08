@@ -15,7 +15,7 @@ countryInput.addEventListener(
 
 function onInpupCountry() {
   resetResult();
-  const imputCountry = countryInput.value;
+  const imputCountry = countryInput.value.trim();
   API.fetchCountries(imputCountry).then(resultCounriesData).catch(onFetchError);
 }
 

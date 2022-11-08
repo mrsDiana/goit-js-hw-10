@@ -1,4 +1,4 @@
-5787
+5788
 81C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_setCacheHas.js133123281550525265 0
 98C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\css-tree\lib\syntax\atrule\font-face.js133122205620970995 0
 102C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@babel\highlight\node_modules\color-convert133122205473693890 1
@@ -38,7 +38,7 @@
 79C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\terser\dist\.gitkeep133122205393560910 0
 56C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\images133122199804491043 1
 112C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133122205796753560 0
-50C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist133123307657226039 1
+50C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist133124069950238440 1
 118C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133122205557848968 0
 55C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\.parcelrc133115918231991211 0
 88C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\regenerator-runtime\README.md133122205447227140 0
@@ -54,7 +54,7 @@
 57C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\.prettierrc133115918232071128 0
 85C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\dropLastWhile.js133123281556201418 0
 78C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\terser\CHANGELOG.md133122205631620152 0
-70C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\js\fetchCountries.js133123296215924338 0
+70C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\js\fetchCountries.js133123307987249959 0
 94C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\runtime-js\src\helpers\node133122205590024912 1
 71C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\core133122205681398690 1
 80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\browser\index.js133122205487076602 0
@@ -77,7 +77,7 @@
 113C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133122205631935598 0
 105C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\notiflix\dist\notiflix-notify-aio-3.2.5.min.js133123187567950323 0
 57C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\.posthtmlrc133115918232040861 0
-58C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\index.js133123306139433680 0
+58C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\index.js133124069942128959 0
 76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\path.js133123281566417084 0
 96C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\csso\lib\restructure\1-mergeAtrule.js133122205409304041 0
 84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_createBaseEach.js133123281544650987 0
@@ -107,6 +107,19 @@
 58C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\package.json133123281577585414 0
 80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\svgo\lib\css-tools.js133122205558473987 0
 79C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\braces\lib\expand.js133122205486486816 0
+76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_baseGt.js133123281535353923 0
+90C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\regions\AE.js133122205493673813 0
+103C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\source-map\parcel_sourcemap_node\src133122205651868809 1
+68C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\sass\_example.scss133115918232866727 0
+114C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133122205527025520 0
+84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_createAssigner.js133123281544591141 0
+115C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133122205534479908 0
+82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\types\timestamp.js133122205593886075 0
+80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\posthtml\node_modules133122205342982275 1
+82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\rangeRight.js133123281567415237 0
+111C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_object_without_properties_loose.js133122205662073175 0
+101C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\border-image.js133122205638862171 0
+55C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\README.md133123313767882887 0
 90C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@nodelib\fs.stat\out\index.d.ts133122205518060078 0
 80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_createOver.js133123281545069874 0
 90C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\regions\PR.js133122206033496914 0
@@ -126,7 +139,7 @@
 117C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133122205408467325 0
 94C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\csso\lib\replace\property\border.js133122205524804029 0
 96C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\details.js133122205797022827 0
-60C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\index.html133123272906541410 0
+60C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\index.html133123308047562620 0
 58C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\partials133122199804983109 1
 112C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\license133122205404148712 0
 84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\lib\index.js133122205642475346 0
@@ -139,10 +152,6 @@
 80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\pullAllWith.js133123281567275616 0
 95C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\run-in.js133122206045335648 0
 67C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\sass\_common.scss133115918232845954 0
-76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_baseGt.js133123281535353923 0
-90C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\regions\AE.js133122205493673813 0
-103C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\source-map\parcel_sourcemap_node\src133122205651868809 1
-68C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\src\sass\_example.scss133115918232866727 0
 71C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite133122206067227077 1
 67C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@nodelib133122205342721663 1
 84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\sass\types\exception.d.ts133122205634908696 0
@@ -461,9 +470,6 @@
 89C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\svgo\plugins\removeUnusedNS.js133122205630964358 0
 92C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\mdn-data\css\at-rules.schema.json133122205482493902 0
 64C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\json5133122205522024365 1
-88C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\markdown-ansi\LICENSE133122205394862985 0
-99C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\source-map-support\source-map-support.js133122205442982591 0
-77C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\isNaN.js133123281561370164 0
 86C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\events\lib\types.js133122205492452672 0
 107C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-math-functions.js133122205680905457 0
 104C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\node-gyp-build-optional-packages\package.json133122205457444036 0
@@ -842,11 +848,6 @@
 97C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133122205407714149 0
 85C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\core\lib\worker.js133122205666551426 0
 78C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\types\pairs.js133122205540639817 0
-114C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133122205527025520 0
-84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\_createAssigner.js133123281544591141 0
-115C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133122205534479908 0
-82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\types\timestamp.js133122205593886075 0
-80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\posthtml\node_modules133122205342982275 1
 81C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\browser\scalar.js133122205561072494 0
 89C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\yaml\dist\Document-9b4560a1.js133122205447161162 0
 95C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\test\unit133122205524524772 1
@@ -1171,7 +1172,6 @@
 103C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\lib\_tagged_template_literal.js133122205634967442 0
 76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\svgo\lib\types.ts133122205651260444 0
 82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\csso\lib\clean\utils.js133122205609474080 0
-114C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.js133122205652892731 0
 93C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\type-fest\source\package-json.d.ts133122205556499374 0
 93C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\type-fest\source\partial-deep.d.ts133122205557338721 0
 73C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\core.js133123281554182496 0
@@ -1548,6 +1548,9 @@
 90C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\source-map-support\package.json133122205461731838 0
 95C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\htmlnano\docs\docs\060-contribute.md133122205635427329 0
 81C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\css-select\lib\sort.js133122205509536621 0
+88C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\markdown-ansi\LICENSE133122205394862985 0
+99C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\source-map-support\source-map-support.js133122205442982591 0
+77C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\isNaN.js133123281561370164 0
 76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\flip.js133123281558166163 0
 76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\isMatch.js133123281561320289 0
 76C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\source-map-js\lib133122205513485430 1
@@ -2003,7 +2006,7 @@
 115C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files133122205622945893 1
 82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\transformer-raw133122205428798671 1
 94C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\fetch.js133122205807566388 0
-61C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.html133123272908007449 0
+61C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.html133124069795274757 0
 80C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\overArgs.js133123281565479619 0
 96C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\domelementtype\lib\esm\index.d.ts.map133122205471241762 0
 121C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed133122205631538483 1
@@ -2044,7 +2047,7 @@
 78C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\nthArg.js133123281565060744 0
 109C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\src\getFilesToRemove.js133122205469895560 0
 102C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-clip-path.js133122205661678386 0
-69C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.77a9bc14.css133123307656847052 0
+69C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.77a9bc14.css133124069795284719 0
 79C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\flatMap.js133123281557886906 0
 102C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133122205494323550 0
 98C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\src\index.js133122205492240944 0
@@ -3257,7 +3260,6 @@
 83C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\placeholder.js133123281566776141 0
 77C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\plant.js133123281566806058 0
 82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\propertyOf.js133123281567016309 0
-82C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\rangeRight.js133123281567415237 0
 81C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\rangeStep.js133123281567475086 0
 86C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\rangeStepRight.js133123281567495044 0
 77C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\lodash\fp\rearg.js133123281567505006 0
@@ -4416,8 +4418,6 @@
 88C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\watcher\index.js.flow133122205531082134 0
 95C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\bigint.js133122205634837791 0
 100C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\blobbuilder.js133122205637241310 0
-111C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_object_without_properties_loose.js133122205662073175 0
-101C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\border-image.js133122205638862171 0
 105C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\broadcastchannel.js133122205641871191 0
 95C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\canvas.js133122205652148065 0
 84C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\acorn\dist\acorn.mjs.d.ts133122205531062196 0
@@ -4745,6 +4745,7 @@
 146C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\package.json133122205652128122 0
 101C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_await_async_generator.js133122205652470306 0
 107C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_check_private_redeclaration.js133122205652746482 0
+114C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.js133122205652892731 0
 150C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.json133122205646313224 0
 106C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_class_apply_descriptor_get.js133122205653003649 0
 106C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\@swc\helpers\src\_class_apply_descriptor_set.js133122205653218912 0
@@ -5779,9 +5780,9 @@
 72C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\.bin\svgo.ps1133122206068460955 0
 74C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\.bin\terser.cmd133122206068460955 0
 74C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\node_modules\.bin\terser.ps1133122206068460955 0
-73C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.77a9bc14.css.map133123307657196130 0
-68C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.975ef6c8.js133123306144052218 0
-72C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.975ef6c8.js.map133123306144092102 0
+73C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.77a9bc14.css.map133124069795284719 0
+68C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.975ef6c8.js133124069950178592 0
+72C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\dist\index.975ef6c8.js.map133124069950218493 0
 78C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\assets\actions-config-step-2.png133115918232488738 0
 69C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\assets\how-it-works.png133115918232558952 0
 70C:\Users\Dianochka\Desktop\goit\goit-js-hw-10\assets\repo-settings.png133115918232648348 0
